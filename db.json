@@ -1,14 +1,389 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "codigo": "0101",
+    "tipo": "Fiambres",
+    "marca": "Vaes",
+    "producto": "Etiqueta verde",
+    "horma": 395,
+    "media": 425,
+    "fraccion": 460
+  },
+  {
+    "codigo": "0101",
+    "tipo": "Fiambres",
+    "marca": "Vaes",
+    "producto": "Etiqueta Naranja",
+    "horma": 475,
+    "media": 510,
+    "fraccion": 555
+  },
+  {
+    "codigo": "0101",
+    "tipo": "Fiambres",
+    "marca": "Vaes",
+    "producto": "Etiqueta Azul",
+    "horma": 510,
+    "media": 550,
+    "fraccion": 590
+  },
+  {
+    "codigo": "0101",
+    "tipo": "Fiambres",
+    "marca": "Vaes",
+    "producto": "Etiqueta Negra",
+    "horma": 800,
+    "media": 860,
+    "fraccion": 930
+  },
+  {
+    "codigo": "0101",
+    "tipo": "Fiambres",
+    "marca": "Vaes",
+    "producto": "Etiqueta Platino",
+    "horma": 950,
+    "media": 1025,
+    "fraccion": 1100
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Salame Milan",
+    "horma": 760,
+    "media": 825,
+    "fraccion": 890
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Salamin P.fino/gru",
+    "horma": 955,
+    "media": "/",
+    "fraccion": 1090
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Longaniza Baston",
+    "horma": 955,
+    "media": 1035,
+    "fraccion": 1115
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Salchichon cn Jamon",
+    "horma": 435,
+    "media": 475,
+    "fraccion": 510
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Salchichon Primav",
+    "horma": 435,
+    "media": 475,
+    "fraccion": 510
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Queso cerdo",
+    "horma": 350,
+    "media": 380,
+    "fraccion": 410
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Panceta Ahumada",
+    "horma": 1420,
+    "media": 1540,
+    "fraccion": 1660
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Panceta salada",
+    "horma": 995,
+    "media": 1080,
+    "fraccion": 1160
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Bondiola",
+    "horma": 1325,
+    "media": 1435,
+    "fraccion": 1545
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Matambre Carne",
+    "horma": 1160,
+    "media": 1250,
+    "fraccion": 1350
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Matambre de pollo",
+    "horma": 945,
+    "media": 1025,
+    "fraccion": 1110
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Jamon crudo",
+    "horma": 1350,
+    "media": 1460,
+    "fraccion": 1600
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Lomo",
+    "horma": 870,
+    "media": 920,
+    "fraccion": 960
+  },
+  {
+    "codigo": "0202",
+    "tipo": "Embutidos",
+    "marca": 190,
+    "producto": "Mortadela Bocha",
+    "horma": 525,
+    "media": 565,
+    "fraccion": 610
+  },
+  {
+    "codigo": "0303",
+    "tipo": "Quesos",
+    "marca": "Lecherita",
+    "producto": "Pategras",
+    "horma": 850,
+    "media": 920,
+    "fraccion": 990
+  },
+  {
+    "codigo": "0303",
+    "tipo": "Quesos",
+    "marca": "Lecherita",
+    "producto": "Cremoso",
+    "horma": 480,
+    "media": 500,
+    "fraccion": 560
+  },
+  {
+    "codigo": "0303",
+    "tipo": "Quesos",
+    "marca": "Lecherita",
+    "producto": "Barra Tybo",
+    "horma": 670,
+    "media": 690,
+    "fraccion": 750
+  },
+  {
+    "codigo": "0303",
+    "tipo": "Quesos",
+    "marca": "Lecherita",
+    "producto": "Holanda",
+    "horma": 680,
+    "media": 735,
+    "fraccion": 780
+  },
+  {
+    "codigo": "0303",
+    "tipo": "Quesos",
+    "marca": "Lecherita",
+    "producto": "Colonial",
+    "horma": 710,
+    "media": 765,
+    "fraccion": 850
+  },
+  {
+    "codigo": "0303",
+    "tipo": "Quesos",
+    "marca": "Lecherita",
+    "producto": "Sardo",
+    "horma": 720,
+    "media": 775,
+    "fraccion": 860
+  },
+  {
+    "codigo": "0303",
+    "tipo": "Quesos",
+    "marca": "Lecherita",
+    "producto": "Port salud",
+    "horma": 530,
+    "media": 570,
+    "fraccion": 630
+  },
+  {
+    "codigo": "0303",
+    "tipo": "Quesos",
+    "marca": "Lecherita",
+    "producto": "Muzza barra",
+    "horma": 690,
+    "media": 745,
+    "fraccion": 825
+  },
+  {
+    "codigo": "0304",
+    "tipo": "Quesos",
+    "marca": "Gauchito",
+    "producto": "Port salud",
+    "horma": 610,
+    "media": 655,
+    "fraccion": 710
+  },
+  {
+    "codigo": "0304",
+    "tipo": "Quesos",
+    "marca": "Gauchito",
+    "producto": "Cremoso Firtichio",
+    "horma": 485,
+    "media": 510,
+    "fraccion": 590
+  },
+  {
+    "codigo": "0304",
+    "tipo": "Quesos",
+    "marca": "Gauchito",
+    "producto": "Cremoso Gauchito",
+    "horma": 490,
+    "media": 520,
+    "fraccion": 580
+  },
+  {
+    "codigo": "0304",
+    "tipo": "Quesos",
+    "marca": "Gauchito",
+    "producto": "Barra tybo",
+    "horma": 670,
+    "media": 690,
+    "fraccion": 750
+  },
+  {
+    "codigo": "0304",
+    "tipo": "Quesos",
+    "marca": "Gauchito",
+    "producto": "Provoleta",
+    "horma": 790,
+    "media": 870,
+    "fraccion": 940
+  },
+  {
+    "codigo": "0304",
+    "tipo": "Quesos",
+    "marca": "Gauchito",
+    "producto": "Ricotta",
+    "horma": 240,
+    "media": 250,
+    "fraccion": 270
+  },
+  {
+    "codigo": "0304",
+    "tipo": "Quesos",
+    "marca": "Gauchito",
+    "producto": "Cheedar",
+    "horma": 720,
+    "media": 750,
+    "fraccion": 780
+  },
+  {
+    "codigo": "0307",
+    "tipo": "Quesos",
+    "marca": "San Marino",
+    "producto": "Muzarella",
+    "horma": 620,
+    "media": 640,
+    "fraccion": 670
+  },
+  {
+    "codigo": "0306",
+    "tipo": "Quesos",
+    "marca": "Verona",
+    "producto": "Muzzarella",
+    "horma": 520,
+    "media": 560,
+    "fraccion": 600
+  },
+  {
+    "codigo": "0306",
+    "tipo": "Quesos",
+    "marca": "Verona",
+    "producto": "Muzza Plancha 20kg",
+    "horma": 10400,
+    "media": 5200,
+    "fraccion": "/"
+  },
+  {
+    "codigo": "0308",
+    "tipo": "Quesos",
+    "marca": "Otros",
+    "producto": "Queso Azul",
+    "horma": 1000,
+    "media": 1040,
+    "fraccion": 1120
+  },
+  {
+    "codigo": "0408",
+    "tipo": "Otros",
+    "marca": "Otros",
+    "producto": "Membrillo",
+    "horma": "1040 (5kg)",
+    "media": "/",
+    "fraccion": 310
+  },
+  {
+    "codigo": "0408",
+    "tipo": "Otros",
+    "marca": "Otros",
+    "producto": "Batata c y s chocol.",
+    "horma": "680 (5kg)",
+    "media": "/",
+    "fraccion": 220
+  },
+  {
+    "codigo": "0305",
+    "tipo": "Quesos",
+    "marca": "El destino",
+    "producto": "Queso cremoso",
+    "horma": 440,
+    "media": 470,
+    "fraccion": 520
+  },
+  {
+    "codigo": "0305",
+    "tipo": "Quesos",
+    "marca": "El destino",
+    "producto": "Cremoso villa nueva",
+    "horma": 590,
+    "media": 650,
+    "fraccion": "$690"
+  },
+  {
+    "codigo": "0507",
+    "tipo": "Ofertas",
+    "marca": "Otros",
+    "producto": "Picada Grande",
+    "horma": "$600 (+3unid)",
+    "media": 0.0,
+    "fraccion": "$650"
   }
-}
+]
